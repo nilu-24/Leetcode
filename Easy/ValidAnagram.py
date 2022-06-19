@@ -22,7 +22,7 @@ class Solution(object):
         if len(s)==1 and len(t)==1:
             if s==t:
                 return True
-            
+        
         #converting the strings to a list
         
         s_list = list(s)
